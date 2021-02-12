@@ -3,19 +3,23 @@
 My major in Mathematics and I have been studying Master's course in Applied Mathematics.
 I am interested in data science and deep learning and computer vision.
 
-## Career
-
-:pig_nose: Experience 
-
-- 
 
 
+# :pig_nose: Experience 
+
+- 2021.01 ~2021.06 : Boost CAMP AI Tech Mentor / UPSTAGE AI
+- 2021.01 ~ : Mega IT Academy teacher (Python Basic, Big Data)
+- 2020.08 ~ 2020.12 Aiffel 1st Facilitator
+- 2019,2020 Mentor for enterprise data analysis based on artificial intelligence natural processing
 
 
+
+## contact me : youngpyoryu@dongguk.edu 
 
 # Main Stack
 
 <image src = "https://user-images.githubusercontent.com/29730449/107788544-e08eb100-6d93-11eb-8976-7c452760642b.png" height = "50"> <image src = "https://user-images.githubusercontent.com/29730449/107788572-e8e6ec00-6d93-11eb-80b6-1d4f109fa82d.png" height = "50">
+
 
 
 <!--
