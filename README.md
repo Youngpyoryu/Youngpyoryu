@@ -1,4 +1,16 @@
-### Hi there 👋
+👋 Hello. My name is Youngpyo, i am software engineer instersted in ML/DL
+
+My major in Mathematics and I have been studying Master's course in Applied Mathematics.
+I am interested in data science and deep learning and computer vision.
+
+## Career
+
+| **Type** | **Date**| **Contents**| **Organizaion**|
+|:--------:||:--------:||:--------:||:--------:|
+| **Education**| 2010.03 ~ 2016.02 / 2016.03 ~ | Department of Mathematics / Department of Mathematics Master course candidate(Applied Mathmatics) | Dongguk University| 
+| **Work**| 2021.01 ~ 2021.06 | boost CAMP AI Tech Mentor | UPSTAGE AI|
+
+
 
 
 # Main Stack
@@ -23,5 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Youngpyoryu/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
