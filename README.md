@@ -5,10 +5,10 @@ I am interested in data science and deep learning and computer vision.
 
 ## Career
 
-| **Type** | **Date**| **Contents**| **Organizaion**|
-|:--------:||:--------:||:--------:||:--------:|
-| **Education**| 2010.03 ~ 2016.02 / 2016.03 ~ | Department of Mathematics / Department of Mathematics Master course candidate(Applied Mathmatics) | Dongguk University| 
-| **Work**| 2021.01 ~ 2021.06 | boost CAMP AI Tech Mentor | UPSTAGE AI|
+:pig_nose: Experience 
+
+- 
+
 
 
 
