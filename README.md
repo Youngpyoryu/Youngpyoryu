@@ -1,7 +1,7 @@
 👋 Hello. My name is Youngpyo, i am software engineer instersted in ML/DL
 
 My major in Mathematics and I have been studying Master's course in Applied Mathematics.
-I am interested in data science and deep learning and computer vision.
+I am interested in ML/DL algorithm
 
 
 
