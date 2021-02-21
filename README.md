@@ -10,8 +10,7 @@ I am interested in ML/DL algorithm
 - 2021.01 ~2021.06 : Boost CAMP AI Tech Mentor / UPSTAGE AI
 - 2021.01 ~ : Mega IT Academy teacher (Python Basic, Big Data)
 - 2020.08 ~ 2020.12 Aiffel 1st Facilitator
-- 2019,2020,2021 Mentor for enterprise data analysis based on artificial intelligence natural natural language processing with Multicampus
-
+- 2019,2020,2021 Mentor for enterprise data analysis based on artificial intelligence natural natural language processing
 
 
 ## contact me : youngpyoryu@dongguk.edu 
