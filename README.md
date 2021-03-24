@@ -7,8 +7,9 @@ I am interested in ML/DL algorithm
 
 # :pig_nose: Experience 
 
+- 2021.03.25~ 2021.08.04 SD academy lecturer (python,Machine/Deep learning etc)
 - 2021.01 ~2021.06 : Boost CAMP AI Tech Mentor / UPSTAGE AI
-- 2021.01 ~ : Mega IT Academy teacher (Python Basic, Big Data)
+- 2021.01 ~ : Mega IT Academy lecturer (Python Basic, Big Data)
 - 2020.08 ~ 2020.12 Aiffel 1st Facilitator
 - 2019,2020,2021 Mentor for enterprise data analysis based on artificial intelligence natural natural language processing
 
