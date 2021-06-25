@@ -7,6 +7,7 @@ I am interested in ML/DL algorithm
 
 # :pig_nose: Experience 
 
+- 2021.06.29 ~ Ezen academy lecturer (ADSP)
 - 2021.03.25~ 2021.08.04 SD academy lecturer (python,Machine/Deep learning etc)
 - 2021.01 ~2021.06 : Boost CAMP AI Tech Mentor / UPSTAGE AI
 - 2021.01.04 ~ 2021.06.21 : Mega IT Academy lecturer (Python Basic, Big Data)
