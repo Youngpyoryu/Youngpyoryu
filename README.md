@@ -14,6 +14,10 @@ I am interested in ML/DL algorithm
 - 2020.08 ~ 2020.12 Aiffel 1st Facilitator
 - 2019,2020 Mentor for enterprise data analysis based on artificial intelligence natural natural language processing
 
+## Beta reader : 
+1. 업무에 바로 쓰이는 SQL 튜닝(http://www.yes24.com/Product/Goods/102382080,한빛미디어 )
+2. 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집 , 비제이퍼블릭
+
 
 ## contact me : youngpyoryu@dongguk.edu 
 
