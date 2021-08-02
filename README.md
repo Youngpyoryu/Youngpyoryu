@@ -9,7 +9,7 @@ I am interested in ML/DL algorithm
 
 - 2021.06.29 ~ Ezen academy lecturer (ADSP)
 - 2021.03.25~ 2021.08.04 SD academy lecturer (python,Machine/Deep learning etc)
-- 2021.01 ~2021.06 : Boost CAMP AI Tech Mentor / UPSTAGE AI
+- 2021.01 ~2021.12 : Boost CAMP AI Tech Mentor 1,2 / UPSTAGE AI
 - 2021.01.04 ~ 2021.06.21 : Mega IT Academy lecturer (Python Basic, Big Data)
 - 2020.08 ~ 2020.12 Aiffel 1st Facilitator
 - 2019,2020 Mentor for enterprise data analysis based on artificial intelligence natural natural language processing
