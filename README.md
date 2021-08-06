@@ -7,7 +7,7 @@ I am interested in ML/DL algorithm
 
 # :pig_nose: Experience 
 
-- 2021.06.29 ~ Ezen academy lecturer (ADSP)
+- 2021.06.29 ~ Ezen academy lecturer (ADSP, python with bigdata analysis)
 - 2021.03.25~ 2021.08.04 SD academy lecturer (python,Machine/Deep learning etc)
 - 2021.01 ~2021.12 : Boost CAMP AI Tech Mentor 1,2 / UPSTAGE AI
 - 2021.01.04 ~ 2021.06.21 : Mega IT Academy lecturer (Python Basic, Big Data)
@@ -16,7 +16,7 @@ I am interested in ML/DL algorithm
 
 ## Beta reader : 
 1. 업무에 바로 쓰이는 SQL 튜닝(http://www.yes24.com/Product/Goods/102382080,한빛미디어 )
-2. 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집 , 비제이퍼블릭
+2. 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집(http://www.yes24.com/Product/Goods/102911732?OzSrank=1 ,비제이퍼블릭(BJ퍼블릭))
 
 
 ## contact me : youngpyoryu@dongguk.edu 
