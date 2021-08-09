@@ -5,8 +5,9 @@ I am interested in ML/DL algorithm
 
 
 
-# :pig_nose: Experience 
-
+# :pig_nose: Experience
+- 2021.08.09 ~ Innovation on quantum & CT Outside director
+- 2021.08.01 ~ Data Science Fellowship with Pseudo-lab (Data analyst Bulider)
 - 2021.06.29 ~ Ezen academy lecturer (ADSP, python with bigdata analysis)
 - 2021.03.25~ 2021.08.04 SD academy lecturer (python,Machine/Deep learning etc)
 - 2021.01 ~2021.12 : Boost CAMP AI Tech Mentor 1,2 / UPSTAGE AI
