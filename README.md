@@ -6,6 +6,7 @@ I am interested in ML/DL algorithm
 
 
 # :pig_nose: Experience
+- 2021.09 ~ : 공공데이터 청년인턴 & 공개SW개발자 대회 멘토
 - 2021 : 한화, 하나금융 계열사 교육
 - 2021.08.09 ~ Innovation on quantum & CT(IQCT) director
 - 2021.08.01 ~ Data Science Fellowship with Pseudo-lab (Data analyst Bulider)
@@ -14,6 +15,7 @@ I am interested in ML/DL algorithm
 - 2021.01 ~2021.12 : Boost CAMP AI Tech Mentor 1,2 / UPSTAGE AI
 - 2021.01.04 ~ 2021.06.21 : Mega IT Academy lecturer (Python Basic, Big Data)
 - 2020.08 ~ 2020.12 Aiffel 1st Facilitator
+- 2020, 공개 SW개발자 대회 멘토
 - 2019,2020 Mentor for enterprise data analysis based on artificial intelligence natural natural language processing
 
 ## Beta reader : 
