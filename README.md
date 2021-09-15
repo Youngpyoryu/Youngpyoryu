@@ -7,7 +7,7 @@ I am interested in ML/DL algorithm
 
 # :pig_nose: Experience
 - 2021.09 ~ : 공공데이터 청년인턴 & 공개SW개발자 대회 멘토
-- 2021 : 한화, 하나금융 계열사 교육
+- 2021 : 한화, 하나금융, 한전 계열사 교육
 - 2021.08.09 ~ Innovation on quantum & CT(IQCT) director
 - 2021.08.01 ~ Data Science Fellowship with Pseudo-lab (Data analyst Bulider)
 - 2021.06.29 ~ Ezen academy lecturer (ADSP, python with bigdata analysis)
