@@ -7,6 +7,7 @@ I am interested in ML/DL algorithm
 
 # :pig_nose: Experience
 - 2021.09 ~ : 공공데이터 청년인턴 멘토
+- 2021.10 :  인공지능 신뢰성 확보를 위한 실무 전문가 자문위원, 한국정보통신기술협회
 - 2021 : 한화, 하나금융, 한전 계열사 교육
 - 2021.08.09 ~ Innovation on quantum & CT(IQCT) director
 - 2021.08.01 ~ Data Science Fellowship with Pseudo-lab (Data analyst Bulider)
