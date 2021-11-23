@@ -11,7 +11,7 @@ I am interested in ML/DL algorithm
 - 2021 : 한화, 하나금융
 - 2021.08.09 ~ Innovation on quantum & CT(IQCT) director
 - 2021.08.01 ~ Data Science Fellowship with Pseudo-lab (Data analyst Bulider)
-- 2021.06.29 ~ Ezen academy lecturer (ADSP, python with bigdata analysis)
+- 2021.06.29 ~ 2021.11.08 Ezen academy lecturer (ADSP, python with bigdata analysis)
 - 2021.03.25~ 2021.08.04 SD academy lecturer (python,Machine/Deep learning etc)
 - 2021.01 ~2021.12 : Boost CAMP AI Tech Mentor 1,2 / UPSTAGE AI
 - 2021.01.04 ~ 2021.06.21 : Mega IT Academy lecturer (Python Basic, Big Data)
