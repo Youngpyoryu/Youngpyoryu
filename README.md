@@ -6,9 +6,10 @@ I am interested in ML/DL algorithm
 
 
 # :pig_nose: Experience
+- 2022.01 ~ : 한빛아카데미 원서 기술 교정 편집 외주.
 - 2021.12 : 엘리스 AI 트랙 (파이썬,머신러닝)
 - 2021.09 ~ 2021.12 : 공공데이터 청년인턴 멘토
-- 2021.10,11 :  인공지능 신뢰성 확보를 위한 실무 전문가 자문위원, 한국정보통신기술협회
+- 2021.10 ~  :  인공지능 신뢰성 확보를 위한 실무 전문가 자문위원, 한국정보통신기술협회
 - 2021 하반기 : 한화, 하나금융
 - 2021.08.09 ~ (주) 양자혁신씨티 director
 - 2021.08.01 ~ Data Science Fellowship with Pseudo-lab (Data analyst Bulider)
@@ -25,6 +26,7 @@ I am interested in ML/DL algorithm
 2. 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집(http://www.yes24.com/Product/Goods/102911732?OzSrank=1 ,비제이퍼블릭(BJ퍼블릭))
 3. 혼자 공부하는 SQL(http://www.yes24.com/Product/Goods/104661489?OzSrank=1, 한빛미디어)
 4. 모두의 리눅스
+
 
 
 ## contact me : youngpyoryu@dongguk.edu 
