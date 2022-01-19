@@ -25,7 +25,7 @@ I am interested in ML/DL algorithm
 1. 업무에 바로 쓰이는 SQL 튜닝(http://www.yes24.com/Product/Goods/102382080,한빛미디어 )
 2. 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집(http://www.yes24.com/Product/Goods/102911732?OzSrank=1 ,비제이퍼블릭(BJ퍼블릭))
 3. 혼자 공부하는 SQL(http://www.yes24.com/Product/Goods/104661489?OzSrank=1, 한빛미디어)
-4. 모두의 리눅스
+4. 모두의 리눅스(http://www.yes24.com/Product/Goods/105764506)
 
 
 
