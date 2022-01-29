@@ -6,17 +6,18 @@ I am interested in ML/DL algorithm
 
 
 # :pig_nose: Experience
+- 2022.03 ~ 2022.05 : 바이오• 인공지능 분야 프로젝트 1기 강사(청주) with 바이오·AI 융합인재 취업연계 지원사업
 - 2022.01 ~ 2022.04: 스파르타내일배움캠프AI 튜터
 - 2022.01 ~ : 한빛아카데미 원서 기술 교정 편집
 - 2021.12 : 엘리스 AI 트랙 (파이썬,머신러닝)
 - 2021.09 ~ 2021.12 : 공공데이터 청년인턴 멘토
 - 2021.10 ~  :  인공지능 신뢰성 확보를 위한 실무 전문가 자문위원, 한국정보통신기술협회
-- 2021 하반기 : 한화, 하나금융
+- 2021 하반기 : 한화 with (주) 퍼스트존 / 하나금융사 with Elice
 - 2021.08.09 ~ (주) 양자혁신씨티 director
 - 2021.08.01 ~ Data Science Fellowship with Pseudo-lab (Data analyst Bulider)
 - 2021.06.29 ~ 2021.11.08 Ezen academy lecturer (ADSP, python with bigdata analysis)
 - 2021.03.25~ 2021.08.04 SD academy lecturer (python,Machine/Deep learning etc)
-- 2021.01 ~ 현재 : Boost CAMP AI Tech Mentor 1,2,3 / UPSTAGE AI(1기 : 정형데이터(제작), 멘토링 분야:cv / 2기 : DLbasic(제작) 멘토링 분야 :NLP /3기 : 멘토링 분야: 추천시스템)
+- 2021.01 ~ 현재 : Boost CAMP AI Tech Mentor 1,2,3 / UPSTAGE AI(1기 : 정형데이터(제작), 멘토링 분야:cv / 2기 : DL_basic(제작),  멘토링 분야 :NLP /3기 : 멘토링 분야: 추천시스템)
 - 2021.01.04 ~ 2021.06.21 : Mega IT Academy lecturer (Python Basic, Big Data)
 - 2020.08 ~ 2020.12 Aiffel 1st Facilitator
 - 2020, 공개 SW개발자 대회 멘토
@@ -27,7 +28,6 @@ I am interested in ML/DL algorithm
 2. 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집(http://www.yes24.com/Product/Goods/102911732?OzSrank=1 ,비제이퍼블릭(BJ퍼블릭))
 3. 혼자 공부하는 SQL(http://www.yes24.com/Product/Goods/104661489?OzSrank=1, 한빛미디어)
 4. 모두의 리눅스(http://www.yes24.com/Product/Goods/105764506 , 길벗)
-
 
 
 ### contact me : youngpyoryu@dongguk.edu 
