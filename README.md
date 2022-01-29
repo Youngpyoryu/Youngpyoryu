@@ -22,17 +22,17 @@ I am interested in ML/DL algorithm
 - 2020, 공개 SW개발자 대회 멘토
 - 2019,2020 Mentor for enterprise data analysis based on artificial intelligence natural natural language processing
 
-## Beta reader : 
-1. 업무에 바로 쓰이는 SQL 튜닝(http://www.yes24.com/Product/Goods/102382080,한빛미디어 )
+### Beta reader : 
+1. 업무에 바로 쓰이는 SQL 튜닝(http://www.yes24.com/Product/Goods/102382080, 한빛미디어 )
 2. 한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집(http://www.yes24.com/Product/Goods/102911732?OzSrank=1 ,비제이퍼블릭(BJ퍼블릭))
 3. 혼자 공부하는 SQL(http://www.yes24.com/Product/Goods/104661489?OzSrank=1, 한빛미디어)
-4. 모두의 리눅스(http://www.yes24.com/Product/Goods/105764506)
+4. 모두의 리눅스(http://www.yes24.com/Product/Goods/105764506 , 길벗)
 
 
 
-## contact me : youngpyoryu@dongguk.edu 
+### contact me : youngpyoryu@dongguk.edu 
 
-# Main Stack
+## Main Stack
 
 <image src = "https://user-images.githubusercontent.com/29730449/107788544-e08eb100-6d93-11eb-8976-7c452760642b.png" height = "50"> <image src = "https://user-images.githubusercontent.com/29730449/107788572-e8e6ec00-6d93-11eb-80b6-1d4f109fa82d.png" height = "50">
 
