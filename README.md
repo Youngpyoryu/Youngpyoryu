@@ -4,6 +4,8 @@ My major in Mathematics and I have been studying Master's course in Applied Math
 I am interested in ML/DL algorithm
 
 
+blog : https://velog.io/@youngpyo
+
 
 # :pig_nose: Experience
 - 2022.03 ~ 2022.05 : 바이오• 인공지능 분야 프로젝트 1기 강사(청주) with 바이오·AI 융합인재 취업연계 지원사업
