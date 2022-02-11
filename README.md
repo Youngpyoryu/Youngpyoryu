@@ -16,7 +16,7 @@ blog : https://velog.io/@youngpyo
 - 2021.09 ~ 2021.12 : 공공데이터 청년인턴 멘토
 - 2021.10 ~  :  인공지능 신뢰성 확보를 위한 실무 전문가 자문위원, 한국정보통신기술협회
 - 2021 하반기 : 한화 with (주) 퍼스트존 / 하나금융사 with Elice
-- 2021.08.09 ~ (주) 양자혁신씨티 director
+- 2021.08.09 ~ 2021.12 (주) IQCT director
 - 2021.08.01 ~2022.01 Data Science Fellowship with Pseudo-lab (Data analyst Bulider)
 - 2021.06.29 ~ 2021.11.08 Ezen academy lecturer (ADSP, python with bigdata analysis)
 - 2021.03.25~ 2021.08.04 SD academy lecturer (Python,Machine/Deep learning etc)
