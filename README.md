@@ -1,15 +1,7 @@
-👋 Hello. My name is Youngpyo, i am software engineer instersted in ML/DL
+👋 Hello. I am software engineer instersted in ML/DL
 
 My major in Mathematics and I have been studying Master's course in Applied Mathematics.
 I am interested in ML/DL algorithm
-
-
-blog : https://velog.io/@youngpyo
-
-
-
-
-### contact me : youngpyoryu@dongguk.edu 
 
 ## Main Stack
 
